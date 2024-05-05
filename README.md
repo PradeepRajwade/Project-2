@@ -50,12 +50,18 @@ Data1.columns
 
 Data1.drop([“column_name”],axis=1,inplcae=True)
 
+for project info
+
+data.info()
+
 **We can check the outliars in any data by ploting the data in box plot
 Syntax**
 
 •	sns.boxplot(data123["atemp"])
 •	plt.title("Outliars in atemp")
 •	plt.show()
+
+T
 
 
 
